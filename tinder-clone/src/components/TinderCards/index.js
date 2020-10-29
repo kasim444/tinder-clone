@@ -1,3 +1,3 @@
-import TinderCards from './TinderCards'
+import TinderCards from "./TinderCards";
 
 export default TinderCards;

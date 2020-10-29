@@ -6,14 +6,14 @@ import './Header.css';
 
 export default function Header() {
   return (
-    <header className='header'>
+    <header className="header">
       <IconButton>
-        <PersonIcon fontSize='large' className='header__icon' />
+        <PersonIcon fontSize="large" className="header__icon" />
       </IconButton>
-      <img src={logo} alt='Tinder Logo' className='header_logo' />
+      <img src={logo} alt="Tinder Logo" className="header_logo" />
       <IconButton>
-        <ForumIcon fontSize='large' className='header__icon' />
+        <ForumIcon fontSize="large" className="header__icon" />
       </IconButton>
     </header>
-  )
+  );
 }
