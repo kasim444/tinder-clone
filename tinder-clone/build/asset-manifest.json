@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9e58f99.chunk.css",
+    "main.js": "/static/js/main.5b4de978.chunk.js",
+    "main.js.map": "/static/js/main.5b4de978.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8d52a14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8d52a14.js.map",
+    "static/js/2.1dc77ec0.chunk.js": "/static/js/2.1dc77ec0.chunk.js",
+    "static/js/2.1dc77ec0.chunk.js.map": "/static/js/2.1dc77ec0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a9e58f99.chunk.css.map": "/static/css/main.a9e58f99.chunk.css.map",
+    "static/js/2.1dc77ec0.chunk.js.LICENSE.txt": "/static/js/2.1dc77ec0.chunk.js.LICENSE.txt",
+    "static/media/tinderFlame.2270551b.svg": "/static/media/tinderFlame.2270551b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d52a14.js",
+    "static/js/2.1dc77ec0.chunk.js",
+    "static/css/main.a9e58f99.chunk.css",
+    "static/js/main.5b4de978.chunk.js"
+  ]
+}
