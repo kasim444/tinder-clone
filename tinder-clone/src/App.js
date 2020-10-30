@@ -1,5 +1,5 @@
 import { Header, TinderCards, SwipeButtons } from './components';
-import './app.css';
+import './App.css';
 
 function App() {
   return (
